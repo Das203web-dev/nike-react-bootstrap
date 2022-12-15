@@ -1,0 +1,21 @@
+.first-sec-bg {
+    background-color: #FFF9F4;
+}
+
+.title-text-color1 {
+    color: #FA804C;
+}
+
+.title-text-color2 {
+    color:
+        #363958;
+}
+
+.btn {
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+}
+
+.card-bg {
+    background-color: #F1F1F1;
+}
